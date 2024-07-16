@@ -1,3 +1,7 @@
+name: "Two Sum"
+link: "https://leetcode.com/problems/two-sum/"
+
+```go
 func twoSum(nums []int, target int) []int {
 
     // make a hashmap (num:index)
@@ -16,3 +20,4 @@ func twoSum(nums []int, target int) []int {
 
     return ans
 }
+```
